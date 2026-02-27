@@ -1,0 +1,2 @@
+# finsql
+prueba con claude
